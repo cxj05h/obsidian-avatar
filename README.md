@@ -49,7 +49,7 @@ Once approved for the community theme gallery:
 3. Click "Install and use"
 
 
-!!! NOTE !!!
+# !!! NOTE !!!
 
 You may need to add a CSS snippet to completely force all the changes. I was unable to find a way around it. Below is the snippet to add:
 
