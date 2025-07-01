@@ -148,7 +148,7 @@ Avatar theme uses CSS custom properties, making it easy to customize:
 
 ## 🐛 Bug Reports & Feature Requests
 
-Found an issue or have a suggestion? Please [open an issue](https://github.com/yourusername/avatar-theme/issues) on GitHub.
+Found an issue or have a suggestion? Please [open an issue](https://github.com/cxj05h/obsidian-avatar/issues) on GitHub.
 
 
 
