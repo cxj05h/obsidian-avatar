@@ -2,6 +2,12 @@
 
 A vibrant dark theme for Obsidian inspired by the four elements, featuring a carefully crafted color palette of aqua, purple, gold, and pink accents.
 
+![Screenshot 1](CleanShot%202025-08-27%20at%2004.59.46@2x.png)
+![Screenshot 2](CleanShot%202025-08-27%20at%2005.00.06@2x.png)
+![Screenshot 3](CleanShot%202025-08-27%20at%2005.00.14@2x.png)
+![Screenshot 4](CleanShot%202025-08-27%20at%2005.00.21@2x.png)
+![Screenshot 5](CleanShot%202025-08-27%20at%2005.00.27@2x.png)
+
 
 ## 🎨 Color Palette
 
@@ -155,3 +161,4 @@ Found an issue or have a suggestion? Please [open an issue](https://github.com/c
 ---
 
 *Avatar Theme - Bringing elemental harmony to your digital workspace* 🌊🔥🌿✨
+
