@@ -6,7 +6,6 @@ A vibrant dark theme for Obsidian inspired by the four elements, featuring a car
 ![Screenshot 6](CleanShot%202025-08-27%20at%2005.10.07@2x.png)
 ![Screenshot 2](CleanShot%202025-08-27%20at%2005.00.06@2x.png)
 ![Screenshot 3](CleanShot%202025-08-27%20at%2005.00.14@2x.png)
-![Screenshot 4](CleanShot%202025-08-27%20at%2005.00.21@2x.png)
 ![Screenshot 5](CleanShot%202025-08-27%20at%2005.00.27@2x.png)
 ![Screenshot 6](CleanShot%202025-08-30%20at%2016.37.44.png)
 
@@ -164,6 +163,7 @@ Found an issue or have a suggestion? Please [open an issue](https://github.com/c
 ---
 
 *Avatar Theme - Bringing elemental harmony to your digital workspace* 🌊🔥🌿✨
+
 
 
 
