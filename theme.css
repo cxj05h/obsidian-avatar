@@ -1,4 +1,5 @@
 
+
 /*
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                           AVATAR THEME - DEEP OCEAN                          ║
@@ -587,15 +588,15 @@ blockquote {
 .callout[data-callout="tip"],
 .callout[data-callout="hint"],
 .callout[data-callout="important"] {
-  border-color: #f3de3f !important;
-  background-color: #2b95f27a   !important;
+  border-color: #e13ff3 !important;
+  background-color: #0b70c87a   !important;
   border-left-width: 4px !important;
 }
 
 .callout[data-callout="tip"] .callout-title,
 .callout[data-callout="hint"] .callout-title,
 .callout[data-callout="important"] .callout-title {
-  color: #f3de3f !important;
+  color: #e45af4 !important;
   /* NO background-color = no inner highlight */
 }
 
