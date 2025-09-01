@@ -18,43 +18,32 @@ A vibrant dark theme for Obsidian inspired by the four elements, featuring a car
 - **Gold** `#FBBF24` - Fire element (warnings, highlights)
 - **Pink** `#EF44C0` - Life element (headers, errors)
 
-## ✨ Features
-
-### Enhanced Interface
-- **Vibrant folder sidebar** with hover effects and color-coded elements
-- **Custom header dividers** that complement each heading level
-- **Elegant tab styling** with Avatar color accents
-- **Enhanced icon colors** throughout the interface
-
-### Rich Content Styling
-- **Color-coded callouts** mapped to Avatar elements
-  - Info/Success → Aqua (Water)
-  - Warning/Caution → Gold (Fire) 
-  - Error/Danger → Pink (Life)
-  - Note/Abstract → Purple (Spirit)
-- **Beautiful table styling** with gradient headers and hover effects
-- **Enhanced highlights** with multiple color options
-- **Styled blockquotes** with Avatar accent borders
 
 ### Typography
 - **Custom header colors** for each heading level (H1-H6)
-- **Enhanced text formatting** with colorful bold and italic styles
+- **Enhanced text formatting** 
 - **Improved code block styling** 
-- **Custom link colors** for better navigation
+- **Custom link colors**
+- All tables automatically receive the Avatar treatment with gradient headers and hover effects
+
 
 ## 📦 Installation
 
 ### Method 1: Manual Installation
 1. Download `theme.css` and `manifest.json`
 2. Place both files in your vault's `.obsidian/themes/avatar/` folder
-3. Go to Settings → Appearance → Themes
-4. Select "Avatar" from the dropdown
+3. See Below 'NOTE' for Final Installation Step regarding css snippet:
 
-### Method 2: Community Theme (Coming Soon)
-Once approved for the community theme gallery:
-1. Go to Settings → Appearance → Themes → Browse
-2. Search for "Avatar"
-3. Click "Install and use"
+
+## 🛠️ Customization
+
+Avatar theme uses CSS custom properties, making it easy to customize:
+
+
+## 🐛 Bug Reports & Feature Requests
+
+Found an issue or have a suggestion? Please [open an issue](https://github.com/cxj05h/obsidian-avatar/issues) on GitHub.
+
 
 
 # !!! NOTE !!!
@@ -135,34 +124,6 @@ use your main font, and your turquoise/gold color (var(--avatar-gold))
   opacity: 0.6 !important;
 }
 ```
-
-
-## 🎯 Usage Examples
-
-
-### Tables
-All tables automatically receive the Avatar treatment with gradient headers and hover effects:
-
-| Feature | Status | Element |
-|---------|--------|---------|
-| Callouts | ✅ Active | All Four |
-| Tables | ✅ Active | Water/Spirit |
-| Highlights | ✅ Active | Fire |
-
-## 🛠️ Customization
-
-Avatar theme uses CSS custom properties, making it easy to customize:
-
-
-## 🐛 Bug Reports & Feature Requests
-
-Found an issue or have a suggestion? Please [open an issue](https://github.com/cxj05h/obsidian-avatar/issues) on GitHub.
-
-
-
----
-
-*Avatar Theme - Bringing elemental harmony to your digital workspace* 🌊🔥🌿✨
 
 
 
