@@ -681,7 +681,7 @@ blockquote {
 }
 
 .callout[data-callout="example"] .callout-title {
-  color: var(--avatar-purple) !important;
+  color: #9698e7 !important;
   /* NO background-color = no inner highlight */
 }
 
@@ -1386,3 +1386,4 @@ body.is-unfocused .theme-dark .workspace-tabs {
 ║  This theme is completely standalone and doesn't require any dependencies   ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 */
+
